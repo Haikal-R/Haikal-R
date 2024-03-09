@@ -1,10 +1,17 @@
-### Hello there 👋
+### Welcome to My GitHub Repository! 🚀
+Hey there! Welcome to my GitHub space where creativity meets innovation. Here, I'm passionate about crafting code that solves real-world problems and sparks imagination.
+
+### About Me
 I'm web developer residing in Indonesia. My passion lies in coding, collaborating on open source projects, and exploring the vast opportunities offered by the web platform.
 
-### Connect with me 🤝
+### Let's Connect!
+I'm excited to engage with fellow developers and tech enthusiasts. Whether you have feedback, ideas, or just want to say hello, don't hesitate to reach out.
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/haikalramadhan/) to explore opportunities and share insights.
+- **Instagram**: Follow me on Instagram [@soon.haikal](https://www.instagram.com/soon.haikal/) for fun and deeper introduction.
+- **Portfolio**: Visit my website/blog [Coming soon](#) for in-depth articles and project showcases.
 
-<a href="https://www.linkedin.com/in/haikalramadhan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Haikal Ramadhan | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/soon.haikal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Haikal Ramadhan | Instagram" width="30px"/></a>
-</br>
+## Stay Inspired, Keep Coding! 💻
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+Thank you for stopping by! Together, let's continue to innovate, learn, and build amazing things that make a difference.
+
+Happy coding! ✨
